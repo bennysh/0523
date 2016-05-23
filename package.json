@@ -19,5 +19,8 @@
   "devDependencies": {
     "jscs": "^3.0.3",
     "jshint": "^2.9.2"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
   }
 }
